@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "application.dbms",
+  "type": "java.lang.String",
+  "description": "DBMS product name used"
+}]}
